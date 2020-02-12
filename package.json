@@ -1,0 +1,19 @@
+{
+  "name": "bridge-webview",
+  "version": "1.0.0",
+  "description": "Communication bettween native app and web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyenvannghi/bridge-webview.git"
+  },
+  "author": "nguyenvannghi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nguyenvannghi/bridge-webview/issues"
+  },
+  "homepage": "https://github.com/nguyenvannghi/bridge-webview#readme"
+}
